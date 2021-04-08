@@ -53,5 +53,6 @@ All requests in an input CSV file are individually executed through the simulato
 
 ## Running the application
 
-Run in terminal/ console: _python3 cache_sim.py --help_
-Running unit tests: _make test_
+* Try it: _make run_ in console
+* Run in terminal/ console: _python3 cache_sim.py --help_
+* Running unit tests: _make test_
